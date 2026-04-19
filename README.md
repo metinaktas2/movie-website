@@ -23,20 +23,6 @@ This project is a modern and responsive movie website where users can explore po
 
 ---
 
-## 🚀 How to Use
-
-1. Clone or download the project
-2. Open the project folder
-3. Go to `script.js`
-4. Replace the API key:
-
-```js
-const API_KEY = "YOUR_API_KEY";
-```
-
-5. Open `index.html` in your browser
-
----
 
 ## 🎥 Project Demo
 
